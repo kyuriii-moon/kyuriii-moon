@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 프로필 수정 테스트
 <!--
 **kyuriii-moon/kyuriii-moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
